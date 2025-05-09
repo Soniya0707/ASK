@@ -1,6 +1,6 @@
 # ASK
 # EX-05 
-## Name: Soniya D (212223060268)
+## Soniya D (212223060268)
 
 ## AIM
 To perform Amplitude Shift Keying(ASK) using Python
@@ -68,7 +68,8 @@ plt.show()
 
 ## GRAPH 
 
-!
+![ASK](https://github.com/user-attachments/assets/946099dc-41c3-46dd-9d65-6ec58e16baf3)
+
 
 
 
